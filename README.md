@@ -3,7 +3,7 @@
 These are the tests of our implementation in two different rooms, with two different objects.
 
 ## Videos
-The video results can be found here
+The video results can be found ![here](https://github.com/katezach/robot_challenge_vid/tree/main/Vids)
 
 ## GIFs
 
