@@ -4,6 +4,7 @@ These are the tests of our implementation in two different rooms, with two diffe
 
 ## Challenge 1
 ![](https://github.com/katezach/robot_challenge_vid/blob/main/Gifs/GorlaeusC3%20-%20Challenge%201.gif)
+
 *GorlaeusC3 - Challenge 1.gif*
 ## Challenge 2
 
