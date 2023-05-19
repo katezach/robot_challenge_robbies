@@ -2,16 +2,23 @@
 
 These are the tests of our implementation in two different rooms, with two different objects.
 
-## Challenge 1
+## Videos
+The video results can be found here
+
+## GIFs
+
+Below are our results as GIFs
+
+### Challenge 1
 ![](https://github.com/katezach/robot_challenge_vid/blob/main/Gifs/GorlaeusC3%20-%20Challenge%201.gif)
 
 *GorlaeusC3 - Challenge 1.gif*
 
 ![](https://github.com/katezach/robot_challenge_vid/blob/main/Gifs/Snellius%20176%20-%20Challenge%201.gif)
 
-* Snellius 176 - Challenge 1.gif*
+*Snellius 176 - Challenge 1.gif*
 
-## Challenge 2
+### Challenge 2
 ![](https://github.com/katezach/robot_challenge_vid/blob/main/Gifs/GorlaeusC3%20-%20Challenge%202.gif)
 
 *GorlaeusC3 - Challenge 2.gif*
@@ -23,7 +30,7 @@ These are the tests of our implementation in two different rooms, with two diffe
 
 
 
-## Challenge 3 
+### Challenge 3 
 
 ![](https://github.com/katezach/robot_challenge_vid/blob/main/Gifs/GorlaeusC3%20-%20Challenge%203.gif)
 
