@@ -1,6 +1,6 @@
 # robot_challenge_vid
 
-These are the tests of our implementation in two different rooms, with two different objects.
+These are the tests of our implementation in two different rooms, with two different objects. The results are available both as `.mp4` and `.gif` files.
 
 ## Videos
 The video results can be found ![here](https://github.com/katezach/robot_challenge_vid/tree/main/Vids)
